@@ -10,7 +10,7 @@
     "description": "Beam-MP Server",
     "features": null,
     "images": [
-        "ghcr.io\/vibesfr\/pterodactyl-beammp-egg:main"
+        "ghcr.io\/denisby\/pterodactyl-beammp-egg:latest"
     ],
     "file_denylist": [],
     "startup": ".\/BeamMP-Server",
